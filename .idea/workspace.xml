@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24234aeb-881c-49f6-9d7c-3b752b06da74" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/language basic/design pattern/DESIGN_PATTERN.md" afterPath="$PROJECT_DIR$/python/language basic/design pattern/DESIGN_PATTERN.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/language basic/design pattern/abstract_factory.py" afterPath="$PROJECT_DIR$/python/language basic/design pattern/abstract_factory.py" />
     </list>
     <ignored path="learn algorithm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,23 +43,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="abstract_factory.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="abstract_factory.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python/language basic/design pattern/abstract_factory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state vertical-scroll-proportion="1.741573">
+              <caret line="147" column="37" selection-start-line="147" selection-start-column="37" selection-end-line="147" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DESIGN_PATTERN.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DESIGN_PATTERN.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python/language basic/design pattern/DESIGN_PATTERN.md">
           <provider editor-type-id="MultiMarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7944251">
+            <state vertical-scroll-proportion="-23.586206">
               <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
               <folding />
             </state>
@@ -89,8 +89,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/python/language basic/design pattern/abstract_factory.py" />
         <option value="$PROJECT_DIR$/python/language basic/design pattern/DESIGN_PATTERN.md" />
+        <option value="$PROJECT_DIR$/python/language basic/design pattern/abstract_factory.py" />
       </list>
     </option>
   </component>
@@ -426,14 +426,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python/language basic/design pattern/abstract_factory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
@@ -456,7 +448,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7944251">
+        <state vertical-scroll-proportion="-23.586206">
           <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
           <folding />
         </state>
@@ -466,6 +458,14 @@
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/language basic/design pattern/abstract_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.741573">
+          <caret line="147" column="37" selection-start-line="147" selection-start-column="37" selection-end-line="147" selection-end-column="37" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

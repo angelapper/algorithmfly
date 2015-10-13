@@ -6,9 +6,12 @@ The purpose of this repo is to be a learning tool for myself and others.
 > _"The design patterns are descriptions of communicating objects and classes that are customized to solve a general design problem in a particular context"_
 
 > **The principle of reusable object-oriented design:** 
+
 > Program to an interface, not an implementation
+
 > Favor object composition over class inheritance
-> --Gamma, Helm, Johnson & Vlissides (1994). Design Patterns (the Gang of Four book). Addison-Wesley. ISBN 0-201-63361-2.
+
+> Gamma, Helm, Johnson & Vlissides (1994). Design Patterns (the Gang of Four book). Addison-Wesley. ISBN 0-201-63361-2.
 
 In my understanding, the pattern name and aspects are just problem focus, do not be fooled by the name, to understand why the problem can be solve in this way is much more important.
 
@@ -24,7 +27,7 @@ __Creational__:
 
 __Structural Patterns__:
 
-| Pattern | Description |
+| Pattern | Aspect(s) That Can Vary |
 |:-------:| ----------- |
 | [Adapter]() | interface to an object |
 | [Bridge]() | implementation of an object |
@@ -36,7 +39,7 @@ __Structural Patterns__:
 
 __Behavioral Patterns__:
 
-| Pattern | Description |
+| Pattern | Aspect(s) That Can Vary |
 |:-------:| ----------- |
 | [Chain of Responsibility]() | object that can fulfill a request |
 | [Command]() | when and how a request is fulfilled |
@@ -52,7 +55,7 @@ __Behavioral Patterns__:
 
 __Others__:
 
-| Pattern | Description |
+| Pattern | Aspect(s) That Can Vary |
 |:-------:| ----------- |
 
 ![](http://r3dux.org/wp-content/uploads/2011/06/DesignPatternRelationships.png)
